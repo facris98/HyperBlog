@@ -1,3 +1,4 @@
 estoy trabjando en la rama footer
 y soy muy feliz porque he dado otro paso 
 es genial poder hacer un cambio desde remoto :) 
+un nuevo cambio qu estoy haciendo desde local, hasta el momento estamos bien, seguire con todas
